@@ -4,9 +4,9 @@ Repo Hub is a repository that contains commonly used and sought-after JavaScript
 
 ## Content
 
-- **JavaScript Libraries**: [Library Name] - Brief description of the library.
-- **CSS Styles**: [Style Name] - Brief description of the style.
-- **HTML Components**: [Component Name] - Brief description of the component.
+- **JavaScript Libraries**
+- **CSS Styles**
+- **HTML Components**
 
 ## Usage
 
