@@ -1,0 +1,23 @@
+# Text files
+*.txt text
+*.html text
+*.css text
+*.js text
+
+# Images
+*.jpg binary
+*.png binary
+*.gif binary
+
+# Markdown files
+*.md text
+
+# Specifying line endings
+* text=auto
+
+# Merge settings
+*.lock merge=union
+
+# Other specific settings
+*.json text
+*.xml text
