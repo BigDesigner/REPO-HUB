@@ -1,20 +1,13 @@
-# Repo Hub
+# REPO-HUB
 
-Repo Hub is a repository that contains commonly used and sought-after JavaScript, CSS, and HTML files for developers.
+Repo Hub is a toolbox repo for developers.
 
 ## Content
 
+- **Free Tier Services**
 - **JavaScript Libraries**
 - **CSS Styles**
 - **HTML Components**
-
-## Usage
-
-To use these files in your projects, simply copy the link to the relevant file and include it in your HTML or JavaScript code.
-
-## Contributing
-
-Repo Hub is open to community contributions. Feel free to create a pull request to add new files or update existing ones.
 
 ## Contact
 
