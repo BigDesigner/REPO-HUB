@@ -11,7 +11,7 @@ Repo Hub is a toolbox repo for developers.
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to reach out: [Your Email or GitHub Username]
+If you have any questions or suggestions, please feel free to reach out: @BigDesigner
 
 ## License
 
